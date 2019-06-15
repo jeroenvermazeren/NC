@@ -9,3 +9,8 @@ As discrete benchmarks we used bays29.tsp, ch130.tsp, and tsp225.tsp. Our result
 
 # Run Car Simulator
 For the car simulator use the folders: ACO_car_simulation and PSO_car_simulation. To run the car simuator, simply use run the main.py. 
+
+The PSO version of the car simulator originates from: https://github.com/daniel4lee/PSO-car-simulator
+
+An example run of the PSO car simulator:
+![preview](programma.gif)
